@@ -1,0 +1,19 @@
+2020-06-10 20:00:43,583:INFO:Add: 10 + 5 = 15
+2020-06-10 20:00:43,599:INFO:Sub: 10 + 5 = 5
+2020-06-10 20:00:43,599:INFO:Multi: 10 + 5 = 50
+2020-06-10 20:00:43,599:INFO:Div: 10 + 5 = 2.0
+2020-06-10 20:05:45,332:INFO:goodbye ('127.0.0.1', 1960)
+2020-06-10 20:05:45,332:INFO:listener closed
+2020-06-10 20:05:45,332:INFO:server has terminated
+2020-06-10 20:05:46,283:INFO:Add: 10 + 5 = 15
+2020-06-10 20:05:46,283:INFO:Sub: 10 + 5 = 5
+2020-06-10 20:05:46,283:INFO:Multi: 10 + 5 = 50
+2020-06-10 20:05:46,283:INFO:Div: 10 + 5 = 2.0
+2020-06-10 20:05:46,283:DEBUG:This is a debug log
+2020-06-10 20:05:46,283:INFO:This is a info log
+2020-06-10 20:05:46,283:WARNING:This is a warning log
+2020-06-10 20:05:46,283:ERROR:This is a error log
+2020-06-10 20:05:46,283:CRITICAL:This is a critical log
+2020-06-10 20:06:06,629:INFO:goodbye ('127.0.0.1', 1966)
+2020-06-10 20:06:06,629:INFO:listener closed
+2020-06-10 20:06:06,629:INFO:server has terminated
